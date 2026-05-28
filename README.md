@@ -242,8 +242,8 @@ const char* writeAPIKey = "YOUR_API_KEY";
     ├── weather_station.jpeg
 ├── LICENSE
 ├── README.md
-├── project_report.pdf
 ├── Weather_Station.ino
+├── project_report.pdf
 ```
 
 
