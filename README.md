@@ -198,6 +198,7 @@ OLED Display     ThingSpeak Cloud
 
 ```bash
 git clone https://github.com/buganalyst/weather_station.git
+cd weather_station
 ```
 
 
