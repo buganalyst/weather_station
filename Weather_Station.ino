@@ -5,11 +5,11 @@
 #include <Adafruit_BMP085.h>
 
 // WIFI
-const char* ssid = "Moto";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // THINGSPEAK
-String apiKey = "IJNYVAH0TQAPMKP4";
+String apiKey = "YOUR_API_KEY";
 const char* server = "api.thingspeak.com";
 
 // OLED
