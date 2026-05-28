@@ -149,26 +149,16 @@ OLED Display     ThingSpeak Cloud
 
 # Hardware Setup
 
-```html
-<img src="weather_station.jpeg" width="700"/>
-```
+<p align="center">
+  <img src="weather_station.jpeg" />
+</p>
 
 
 # ThingSpeak Cloud Dashboard
 
-```html
-<img src="thinkspeak.jpeg" width="700"/>
-```
-
-
-# Parameters Monitored
-
-| Parameter            | Sensor |
-| -------------------- | ------ |
-| Temperature          | DHT11  |
-| Humidity             | DHT11  |
-| Atmospheric Pressure | BMP180 |
-| Altitude             | BMP180 |
+<p align="center">
+  <img src="thingspeak.jpeg" />
+</p>
 
 
 # Circuit Connections
@@ -246,9 +236,10 @@ const char* writeAPIKey = "YOUR_API_KEY";
 # Repository Structure
 
 ```text
-├── Weather_Station.ino
+├── LICENSE
 ├── README.md
-├── thinkspeak.jpeg
+├── Weather_Station.ino
+├── thingspeak.jpeg
 ├── weather_station.jpeg
 ```
 
