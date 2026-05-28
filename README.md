@@ -150,14 +150,14 @@ OLED Display     ThingSpeak Cloud
 # Hardware Setup
 
 <p align="center">
-  <img src="weather_station.jpeg" />
+  <img src="images/weather_station.jpeg" />
 </p>
 
 
 # ThingSpeak Cloud Dashboard
 
 <p align="center">
-  <img src="thingspeak.jpeg" />
+  <img src="images/thingspeak.jpeg" />
 </p>
 
 
@@ -237,11 +237,13 @@ const char* writeAPIKey = "YOUR_API_KEY";
 # Repository Structure
 
 ```text
+├── images
+    ├── thingspeak.jpeg
+    ├── weather_station.jpeg
 ├── LICENSE
 ├── README.md
+├── project_report.pdf
 ├── Weather_Station.ino
-├── thingspeak.jpeg
-├── weather_station.jpeg
 ```
 
 
